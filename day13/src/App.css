@@ -1,0 +1,31 @@
+.main{
+  padding: 20px;
+}
+
+
+.test{
+  float:left;
+ /* background-color: rgb(241, 205, 184); */
+  width:65%;
+  margin: 20px;
+  height:200px
+}
+
+.table{
+  background-color: rgb(220, 235, 192);
+  width: 100%;
+}
+
+button{
+  width: 150px;
+  height: 40px;
+  font-size: 16px;
+  border-radius: 10px;
+}
+
+
+button:hover{
+  background-color: rgb(202, 248, 142);
+  color: rgb(241, 5, 151);
+  font-weight: bold;
+}
